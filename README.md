@@ -1,2 +1,2 @@
 # CS
-Sale Message Syatem
+Sale Message System
